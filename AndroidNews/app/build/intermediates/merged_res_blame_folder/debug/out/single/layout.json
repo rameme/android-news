@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_headline.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\activity_headline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_headlines.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\row_headlines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_result.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_news.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\row_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_source.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\row_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_source.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\activity_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Ramim Alam\\Desktop\\Ramim\\Courses\\Sping 2022\\Hand Held Design\\project-1-android-news-rameme\\Project1\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    }
+]

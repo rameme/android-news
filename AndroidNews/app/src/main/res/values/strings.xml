@@ -1,0 +1,54 @@
+<resources>
+    <!-- MAIN ACTIVITY -->
+    <string name="app_name">Android News</string>
+    <string name="searchTitle">Term Search</string>
+    <string name="searchHint">Search</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="mapsTitle">News by Location</string>
+    <string name="mapsButton">VIEW MAP</string>
+    <string name="headlinesTitle">Top Headlines</string>
+    <string name="headlinesButton">VIEW TOP HEADLINES</string>
+
+    <!-- SOURCE ACTIVITY -->
+    <string name="sourceSearchTitle">Search for %s</string>
+    <string name="categoryTitle">Category</string>
+    <string name="sourcesTitle">Sources</string>
+    <string name="skipButton">Skip (Search All Sources)</string>
+
+    <!-- RESULT ACTIVITY -->
+    <string name="sourceResultTitle">%1$s result for %2$s</string>
+    <string name="resultTitle">Result for %s</string>
+
+    <!-- NEWS/MAPS ACTIVITY -->
+    <string name="mapsActivityTitle">News By Location</string>
+    <string name="newsTitle">News Title</string>
+    <string name="newsSource">News Source</string>
+    <string name="newsDescription">Text Description</string>
+    <string name="newsUrl">Url</string>
+    <string name="newsResult">Result for %s</string>
+
+    <!-- SPINNER -->
+    <string-array name="category">
+        <item>General</item>
+        <item>Business</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>Technology</item>
+    </string-array>
+
+    <!-- ROW SOURCE RECYCLER VIEW -->
+    <string name="sourceName">Source</string>
+    <string name="sourceDescription">The Description of the source</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <!-- HEADLINES -->
+    <string name="headlineTitle">Top Headlines</string>
+    <string name="pageText">PAGE %1$s OF 5</string>
+    <string name="categoryHeadlineTitle">Headline Category</string>
+    <string name="headline">Headlines</string>
+    <string name="nextButton">NEXT</string>
+    <string name="previousButton">PREV</string>
+
+</resources>

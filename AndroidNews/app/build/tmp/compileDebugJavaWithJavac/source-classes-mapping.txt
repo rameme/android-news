@@ -1,0 +1,16 @@
+com/example/androidnews/databinding/ActivityHeadlineBinding.java
+ com.example.androidnews.databinding.ActivityHeadlineBinding
+com/example/androidnews/databinding/RowSourceBinding.java
+ com.example.androidnews.databinding.RowSourceBinding
+com/example/androidnews/databinding/ActivitySourceBinding.java
+ com.example.androidnews.databinding.ActivitySourceBinding
+com/example/androidnews/databinding/ActivityResultBinding.java
+ com.example.androidnews.databinding.ActivityResultBinding
+com/example/androidnews/BuildConfig.java
+ com.example.androidnews.BuildConfig
+com/example/androidnews/databinding/ActivityMapsBinding.java
+ com.example.androidnews.databinding.ActivityMapsBinding
+com/example/androidnews/databinding/RowNewsBinding.java
+ com.example.androidnews.databinding.RowNewsBinding
+com/example/androidnews/databinding/ActivityMainBinding.java
+ com.example.androidnews.databinding.ActivityMainBinding
